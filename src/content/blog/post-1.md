@@ -10,7 +10,7 @@ seo:
     alt: a mac
 ---
 
-![A person standing at the mac](/post-2.jpg)
+![A person standing at the macos](/post-2.jpg)
 
 **Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
 
