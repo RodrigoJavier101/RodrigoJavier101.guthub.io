@@ -1,7 +1,7 @@
 ---
 title: Rodrigo starts his new blog
 excerpt: In recent years, the way we work has undergone a significant transformation, largely due to advancements in technology and changing attitudes toward work-life balance. One of the most notable changes has been the rise of remote work, allowing employees to work from the comfort of their own homes.
-publishDate: 'today'
+publishDate: 'Dec 13 2024'
 tags:
   - New start
 seo:
