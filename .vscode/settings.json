@@ -22,9 +22,20 @@
     },
     "typescript.tsdk": "node_modules/typescript/lib",
     "files.associations": {
-        "*.css": "tailwindcss",
+        "*.css": "tailwindcss"
     },
     "files.autoSave": "afterDelay",
-    "editor.fontSize": 18,
-    "editor.fontFamily": "JetBrains"
+    "editor.fontSize": 13,
+    "editor.fontFamily": "JetBrains",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "node_modules": true,
+        "dist": true,
+        ".gitignore": true
+    }
 }
