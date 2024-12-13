@@ -43,7 +43,7 @@ const siteConfig: SiteConfig = {
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/dante-preview.jpg',
-        alt: 'Code Chunks - Astro.js and Tailwind CSS theme'
+        alt: 'Code Chunks'
     },
     headerNavLinks: [
         {
