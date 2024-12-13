@@ -1,16 +1,16 @@
 ---
 title: Rodrigo starts his new blog
 excerpt: In recent years, the way we work has undergone a significant transformation, largely due to advancements in technology and changing attitudes toward work-life balance. One of the most notable changes has been the rise of remote work, allowing employees to work from the comfort of their own homes.
-publishDate: 'Aug 5 2023'
+publishDate: 'today'
 tags:
-  - Guide
+  - New start
 seo:
   image:
-    src: '/post-1.jpg'
-    alt: A person standing at the window
+    src: '/post-2.jpg'
+    alt: a mac
 ---
 
-![A person standing at the window](/post-1.jpg)
+![A person standing at the mac](/post-2.jpg)
 
 **Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
 
